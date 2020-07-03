@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5E08D37F-2832-474C-AF73-45B2C90025D7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF186F58-58BE-4F25-BAB2-4837B62FDC72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Memo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EF186F58-58BE-4F25-BAB2-4837B62FDC72 - 8a59d646371f7ba1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Memo.MemoryGame&lt;Swift.String&gt;.Card&gt;, Swift.Int, Memo.CardView&gt; in Memo.ContentView.body.getter : some"
+                  moduleName = "Memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/0xk175un3/Projects/Personal/Memo/Memo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "EF186F58-58BE-4F25-BAB2-4837B62FDC72 - 5ada5556b4c2d85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Memo.MemoryGame&lt;Swift.String&gt;.Card) -&gt; Memo.CardView in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Memo.MemoryGame&lt;Swift.String&gt;.Card&gt;, Swift.Int, Memo.CardView&gt; in Memo.ContentView.body.getter : some"
+                  moduleName = "Memo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/0xk175un3/Projects/Personal/Memo/Memo/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
